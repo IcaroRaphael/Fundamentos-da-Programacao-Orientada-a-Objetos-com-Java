@@ -1,4 +1,4 @@
-package Pacotes;
+package pacotes;
 
 /*
 * Package versus Import:
